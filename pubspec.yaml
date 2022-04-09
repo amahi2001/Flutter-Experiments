@@ -37,6 +37,8 @@ dependencies:
 
   #HTTP for api requests
   http: ^0.13.4
+  firebase_core: ^1.13.1
+  firebase_auth: ^3.3.11
 
 dev_dependencies:
   flutter_test:
